@@ -1,2 +1,3 @@
 venv/
 .envrc
+db.sqlite3
